@@ -14,6 +14,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class DriverScript {
 	/*
+	 * Des:This is a driver referance for managingd all driver instance.Use this referance in all classes for project.
 	 * public driver referance which can be accessed across the project
 	 * prop global variable to access properties class method in all test.
 	 */
